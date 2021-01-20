@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital@1&display=swap');
+
+*{
+    font-family: 'Poppins', sans-serif;
+}
+.page{
+    background-image: url("bankback2.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+
+    
+}
+.page .image1{
+    margin:5% 2% 5% 20%;
+    height:45%; 
+    width:17%;
+    opacity:0.8;
+    
+}
+.page .image2{
+    
+    height:45%;
+    width:17%;
+    margin:5% 2% 5% 20%;
+    opacity:0.8;
+    
+
+}
+.foot{
+    background-color:black;
+    height:200px;
+    width:100%;
+    padding:2%;
+}
+.contact{
+    float:left;
+    margin: 1%;
+    color:white;
+}
+.follow{
+    
+    margin:1%;
+    
+}
